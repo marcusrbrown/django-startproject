@@ -1,0 +1,21 @@
+# Just in case someone isn't using virtualenvwrapper.
+venv
+
+# Python bytecode.
+*.pyc
+
+# Development database.
+db.sqlite
+
+# Ignore the top-level static_collected/ directory, it contains collected and
+# processed static files.
+/static_collected/
+
+# Ignore the top-level media/ directory which is only used in development.
+/media/
+
+# Local configuration variables (used by foreman and heroku-pg-transfer).
+.env
+
+# Local s3cmd configuration.
+.s3cfg

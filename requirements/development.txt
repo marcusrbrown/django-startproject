@@ -1,0 +1,4 @@
+-r base.txt
+django-debug-toolbar==0.9.4
+flake8==1.7.0
+s3cmd==1.1.0-beta3

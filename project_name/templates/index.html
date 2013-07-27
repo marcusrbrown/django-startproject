@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% load i18n %}
+{% block header %}
+<div class="page-header">
+  <header class="hero-unit">
+    <h1>
+      Start your project, today.<br>
+      <small>Django and project creation come together, at last.</small>
+    </h1>
+  </header>
+</div>
+{% endblock %}
+{% block content %}
+<div class="row">
+  {% blocktrans %}
+    <p>This is THE Django starter project.</p>
+    <ul>
+      <li>This thing is awesome</li>
+      <li>It will change your life</li>
+    </ul>
+    <p>Start using django-startproject today!</p>
+  {% endblocktrans %}
+</div>
+{% endblock %}

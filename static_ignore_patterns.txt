@@ -1,0 +1,9 @@
+# This file contains patterns of files and directories that will be ignored
+# during collectstatic.
+LICENSE*
+Makefile
+README.md
+package.json
+tests
+docs
+*.less

@@ -1,0 +1,4 @@
+-r base.txt
+django-heroku-memcacheify==0.3
+django-heroku-postgresify==0.3
+newrelic==1.9.0.21

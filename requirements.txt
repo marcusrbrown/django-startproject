@@ -1,0 +1,6 @@
+-r requirements/production.txt
+
+# pylibmc must be specified in the root requirements file to enable the
+# boostrap of libmemcached on Heroku. From:
+# http://stackoverflow.com/a/11587142.
+pylibmc==1.2.3

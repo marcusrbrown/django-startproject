@@ -1,0 +1,13 @@
+# Normalize the line endings of all text files
+* text=auto
+
+# Webfonts
+*.woff binary
+*.eot binary
+*.ttf binary
+
+# Images
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
