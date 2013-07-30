@@ -1,6 +1,6 @@
 BeautifulSoup==3.2.1
 Django>=1.5.0,<=1.5.9
-Fabric==1.4.3
+Fabric==1.7.0
 South==0.7.6
 amqplib==1.0.2
 anyjson==0.3.3
@@ -26,6 +26,7 @@ gunicorn==0.16.1
 httplib2==0.7.6
 kombu==2.4.7
 oauth2==1.5.211
+paramiko==1.11.0
 psycopg2==2.4.6
 pycrypto==2.6
 python-dateutil==1.5
