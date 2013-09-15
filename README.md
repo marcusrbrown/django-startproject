@@ -41,7 +41,7 @@ bootstrap the new project's environment:
 After the packages have been installed, create the new project with the
 following command:
 
-    django-admin.py startproject --template=https://github.com/igetgames/django-startproject/zipball/master myproject
+    django-admin.py startproject --template=https://github.com/igetgames/django-startproject/zipball/master -n Procfile myproject
 
 [3]: http://www.virtualenv.org/en/latest/
 
