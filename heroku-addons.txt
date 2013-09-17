@@ -1,6 +1,5 @@
 heroku-postgresql:dev
 memcachier:dev
-newrelic:standard
 cloudamqp:lemur
 pgbackups:auto-month
 sentry:developer
