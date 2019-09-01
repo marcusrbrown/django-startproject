@@ -9,7 +9,7 @@ futures==2.1.4
 gevent==0.13.8
 greenlet==0.4.1
 gunicorn==17.5
-paramiko==1.11.0
+paramiko==2.0.9
 psycopg2==2.5.1
 pycrypto==2.6
 wsgiref==0.1.2
